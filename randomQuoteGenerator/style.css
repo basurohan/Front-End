@@ -1,0 +1,11 @@
+.quote {
+    padding: 10px;
+}
+
+.page-center {
+    display: block;
+    margin: auto;
+    width: 900px;
+    position: relative;
+    transform: translateY(50%);
+}
